@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+html {
+	scroll-behavior: smooth;
+}
+
+body{
+    background-image : url("https://media.gettyimages.com/id/105650326/photo/four-men-on-the-ridge-of-a-mountain.jpg?s=1024x1024&w=gi&k=20&c=k2p5CO6Rm3qXCTIxuLFlrefVJfKcgNIc7YdId5qLPKo=");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+      h1 {
+        color: darkslategray;
+        margin-top: 40px;
+        font-size: 100px;
+        font-family: 'Dancing Script', cursive;
+        text-align: center;
+        text-shadow: 4px 2px 2px black;
+      }
+    
+      body,p,section{
+    
+        text-align: center;
+        text-shadow: 2px 3px 3px white;
+        font-style: oblique;
+        font-size: 20px;
+        color: black;
+        font-family: 'Dancing Script', cursive;
+       font-family: 'Itim', cursive;
+    
+      }
+    
+      
